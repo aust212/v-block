@@ -7,9 +7,9 @@ The focus of this project was on accurate geometry, clean modeling practices, an
 
 ## Tools & Software
 
-- AutoCAD – 3D modeling and solid construction
+- AutoCAD - 3D modeling and solid construction
 
-- Blender – Rendering, materials, lighting, and final visualization
+- Blender - Rendering, materials, lighting, and final visualization
 
 ## Modeling Process
 
