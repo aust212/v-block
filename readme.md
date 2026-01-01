@@ -28,6 +28,8 @@ The focus of this project was on accurate geometry, clean modeling practices, an
 
 ![Preview](preview.png)
 
+Visit my [portfolio](https://austin-ngobeni.vercel.app/) to view the animation
+
 ## Purpose of the Project
 
 **This project was created to:**
